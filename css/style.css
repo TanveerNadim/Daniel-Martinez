@@ -1,0 +1,219 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+.h-page{
+	background-color: #194350;
+}
+.banner-menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding-right: 16px;
+	padding-top: 16px;
+}
+.logo h5{
+	color: #FFE227;
+	font-size: 22px;
+}
+.banner-menu ul li a{
+	color: white;
+	font-size: 16px;
+}
+.banner-title h3{
+	font-size: 45px;
+	color: #FFE227;
+	padding: 5px;
+}
+.banner-title h1{
+	color: white;
+    font-size: 85px;
+    letter-spacing: 5px;
+    padding-bottom: 16px;
+}
+.banner-title p{
+	color: white;	
+}
+.banner-title{
+	padding-top: 90px;
+    padding-left: 275px;
+}
+.banner{
+	padding: 45px;
+}
+.home{
+	display: flex;
+	flex-basis: 50%;
+}
+.h-page{
+	padding-right: 420px;
+	flex-basis: 50%;
+}	
+.about-text{
+	text-align: center;
+	background-color: #F4EEE8;
+	padding: 80px 604px;
+}
+.about-text p{
+	line-height: 2;
+    letter-spacing: 2px;
+    color: #707070;
+}
+.a-text-p p{
+	padding-top: 16px;
+	line-height: 2;
+    letter-spacing: 2px;
+    color: #707070;
+}
+.about-text h3{
+	font-size: 50px;
+    color: #194350;
+    padding: 50px;
+}
+.about-text button{
+	background: #FFE227;
+	color: #34626C;
+    border: 0;
+    padding: 12px 30px;
+    margin: 35px;
+}
+.showreel h1{
+	text-align: center;
+    color: #194350;
+    font-size: 75px;
+    padding: 80px;
+}
+.img-item img{
+	width: 100%;
+	background-repeat: no-repeat;
+}
+.photo-text h1{
+	text-align: center;
+    color: #194350;
+    font-size: 75px;
+    padding: 80px;
+}
+.top-photos{
+	display: flex;
+	justify-content: space-evenly;
+}
+.top-photos img{
+	width: 100%;
+}
+.bottom-photos{
+	display: flex;
+	justify-content: space-evenly;
+	padding-bottom: 100px;
+}
+.bottom-photos img{
+	width: 100%;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+.pic-3{
+	padding: 16px;
+}
+.pic-4{
+	padding: 16px;
+}
+.pic-5{
+	padding: 16px;
+}
+.pic-6{
+	padding: 16px;
+}
+.pic-7{
+	padding: 16px;
+}
+.pic-8{
+	padding: 16px;
+	6
+}
+.contact-part{
+	background-color: #194350;
+	display: flex;
+	flex-basis: 50%;
+}
+.contact-text{
+	padding-left: 235px;
+	padding-top: 60px;
+}
+.media-icons{
+	display: flex;
+	color: white;
+}
+.media-icons i{
+	padding-right: 20px;
+	font-size: 20px;
+	padding-top: 25px;
+}
+.c-title h1{
+	color: #FFE227;
+    font-size: 70px;
+}
+.c-title h3{
+	color: white;
+    font-size: 25px;
+    padding: 20px 0;
+}
+.manager-text{
+	color: white;
+	line-height: 2;
+    padding-top: 15px;
+}
+.agent-text{
+	color: white;
+	line-height: 2;
+    padding-top: 15px;
+}
+.sf-text{
+	color: white;
+	line-height: 2;
+    padding-top: 15px;
+}
+.copyright{
+	color: black;
+	background-color: white;
+	padding: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.copyright h5{
+	font-size: 18px;
+}
+.copyright h5 a{
+	color: black;
+	text-decoration: underline;
+}
+.background{
+	background-color: #E8E8E8;
+	padding: 25px;
+}
+.img-icon{
+	display: flex;
+	flex-basis: 50%;
+}
+.h-img img{
+	position: relative;
+}
+.top-icons{
+	right: 5px;
+    top: 320px;
+    background-color: #FFE227;
+    width: 25px;
+    height: 95px;
+    text-align: center;
+    cursor: pointer;
+	position: absolute;
+}
+.top-icons i{
+	padding-top: 5px;
+	color: #194350;
+}
